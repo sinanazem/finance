@@ -1,2 +1,2 @@
-# finance
-Machine Learning Applications in Finance
+# Machine Learning Applications in Finance
+
