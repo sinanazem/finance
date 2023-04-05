@@ -1,5 +1,7 @@
 # Machine Learning Applications in Finance
 
+<img src="https://geekflare.com/wp-content/uploads/2021/10/Finance-Tools.png">
+
 1. Fraud detection: Machine learning algorithms can be applied to detect fraudulent activities in financial transactions, such as credit card fraud, insurance fraud, and money laundering. These algorithms can detect patterns of fraud and flag suspicious transactions for further investigation.
 
 2. Credit risk assessment: Machine learning can be used to assess the credit risk of borrowers by analyzing their credit history, income, and other financial data. This can help lenders make better decisions about which borrowers to lend to and at what interest rates.
