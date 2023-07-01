@@ -14,4 +14,3 @@
 
 6. Personalized recommendations: Machine learning algorithms can be used to analyze customer data and provide personalized recommendations for financial products and services. This can help financial institutions retain customers and increase customer satisfaction.
 
-7. Chatbots and virtual assistants: Machine learning algorithms can be used to create chatbots and virtual assistants that can assist customers with financial tasks, such as paying bills, transferring money, and checking account balances. This can help financial institutions reduce costs and improve customer service.
